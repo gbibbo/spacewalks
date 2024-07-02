@@ -1,7 +1,7 @@
 # https://data.nasa.gov/resource/eva.json
-data_f = open('/home/sarah/Projects/ssi-ukrn-fair-course/data.json', 'r')
-data_t = open('/home/sarah/Projects/ssi-ukrn-fair-course/data.csv','w')
-g_file = 'myplot.png'
+data_f = open('./eva-data.json', 'r')
+data_t = open('./eva-data.csv','w')
+g_file = './cumulative_eva_gragit adph.png'
 
 fieldnames = ("EVA #", "Country", "Crew    ", "Vehicle", "Date", "Duration", "Purpose")
 
