@@ -1,3 +1,7 @@
+## Usage example
+
+# python eva_data_analysis.py eva-data.json eva-data.cvs
+
 ## Not so good astronaut data analysis code
 
 This repository contains a helper software project with some code to be used 
